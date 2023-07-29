@@ -20,7 +20,10 @@ I was able to quickly pull these images by
 
 ![wireshark_filtered_view](https://i.ibb.co/ngKpsBG/2023-07-29-18h56-37.png)
 
-I then threw each hex stream I copied into Cyberchef which immediately converted it from hex and rendered the PNG files. The one that stuck out was this one below
+I then threw each hex stream I copied into Cyberchef which immediately converted it from hex and rendered the PNG files. The one that stuck out was this one below.
+The other hex streams rendered are here:
+> [Discord](https://github.com/Oceans77/CTF_Writeups/blob/main/TFC%20CTF%202023/SOME%20TRAFFIC/discord.png)
+> <br>[Red](https://github.com/Oceans77/CTF_Writeups/blob/main/TFC%20CTF%202023/SOME%20TRAFFIC/red.png)
 
 ![Cyberchef_converstion](https://i.ibb.co/0mWhzc7/2023-07-29-18h23-43.png)
 
