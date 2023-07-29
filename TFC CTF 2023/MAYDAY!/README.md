@@ -18,7 +18,7 @@ I was able to quickly pull these images by
 5. right-clicked "Portable Network Graphics"
 6. Copy As Hex Stream
 
-![wireshark_filtered_view](https://i.ibb.co/Cm5rYYj/2023-07-29-18h24-48.png)
+![wireshark_filtered_view](https://i.ibb.co/ngKpsBG/2023-07-29-18h56-37.png)
 
 I then threw the hex into Cyberchef which immediately converted it from hex and rendered the PNG file
 
