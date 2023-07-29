@@ -20,7 +20,7 @@ I was able to quickly pull these images by
 
 ![wireshark_filtered_view](https://i.ibb.co/ngKpsBG/2023-07-29-18h56-37.png)
 
-I then threw the hex into Cyberchef which immediately converted it from hex and rendered the PNG file
+I then threw each hex stream I copied into Cyberchef which immediately converted it from hex and rendered the PNG files. The one that stuck out was this one below
 
 ![Cyberchef_converstion](https://i.ibb.co/0mWhzc7/2023-07-29-18h23-43.png)
 
