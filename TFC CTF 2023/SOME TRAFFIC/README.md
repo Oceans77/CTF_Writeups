@@ -32,7 +32,7 @@ Extracted Image:
 Looking at the extracted image we can see these out-of-place green streaks going through it on the left side.
 Using [PixSpy](https://pixspy.com/) I uploaded the image, extracted the shortest green line (the others looked identical) and cut it out of the image, saving only those pixels seperately.
 
-Using the Pillow python library I was able to grab the decimal values of the pixels
+Using the [Pillow](https://pypi.org/project/Pillow/) python library I was able to grab the decimal values of the pixels
 
 ```python
 # Importing Pillow Library
