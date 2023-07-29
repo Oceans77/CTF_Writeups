@@ -4,7 +4,7 @@ Challenge Description:
 > We are sinking! The nearest ship got our SOS call, but they replied in pure gobbledygook! Are ye savvy enough to decode the message, or will we be sleepin' with the fish tonight? All hands on deck! 
 > Whiskey Hotel Four Tango Dash Alpha Romeo Three Dash Yankee Oscar Uniform Dash Sierra One November Kilo India November Golf Dash Four Bravo Zero Uniform Seven
 
-In this one you're given a file called "[sus.pcap](https://github.com/Oceans77/CTF_Writeups/blob/main/TFC%20CTF%202023/MAYDAY!/sus.pcapng)", Naturally this is a network capture packet file, so we can open it up in Wireshark to start looking at the data.
+In this one you're given a file called "[sus.pcap](https://github.com/Oceans77/CTF_Writeups/blob/main/TFC%20CTF%202023/SOME%20TRAFFIC/sus.pcapng)", Naturally this is a network capture packet file, so we can open it up in Wireshark to start looking at the data.
 First thing I noticed, was the crazy amount of "Port Unreachable" packets, but also the TCP packets that were captured containing data.
 
 ![wireshark_capture](https://i.ibb.co/w0MGjhL/2023-07-29-18h03-54.png)
