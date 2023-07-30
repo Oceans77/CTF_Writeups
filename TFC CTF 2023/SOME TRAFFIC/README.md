@@ -3,7 +3,7 @@
 Challenge Description:
 > Our SOC analysts said that in the last few days, some of our employees started to upload a lot of photos on random sites. Check it out.
 
-In this one you're given a file called "[sus.pcapng](https://github.com/Oceans77/CTF_Writeups/blob/main/TFC%20CTF%202023/SOME%20TRAFFIC/sus.pcapng)", Naturally this is a network capture packet file, so we can open it up in Wireshark to start looking at the data.
+In this one you're given a file called "[sus.pcapng](https://github.com/Oceans77/CTF_Writeups/blob/main/TFC%20CTF%202023/SOME%20TRAFFIC/sus.pcapng)", Naturally this is a network packet capture file, so we can open it up in Wireshark to start looking at the data.
 First thing I noticed, was the crazy amount of ICMP & DNS packets, but also the TCP packets that were captured containing data.
 
 ![wireshark_capture](https://i.ibb.co/w0MGjhL/2023-07-29-18h03-54.png)
